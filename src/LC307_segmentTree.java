@@ -1,5 +1,5 @@
 // segment tree
-public class LC307 {
+public class LC307_segmentTree {
 
     class NumArray {
 

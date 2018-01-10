@@ -1,5 +1,5 @@
 // Binary search ( [start, end) )
-public class LC540 {
+public class LC540_binarySearch {
     class Solution {
         public int singleNonDuplicate(int[] nums) {
             int start = 0, end = nums.length;
